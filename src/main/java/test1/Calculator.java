@@ -9,7 +9,7 @@ package test1;
 public class Calculator {
 
 	/**
-	 * Dodawanie
+	 * Dodawanie dwóch liczb całkowitych
 	 * 
 	 * @param x
 	 * @param y
