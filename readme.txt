@@ -1,0 +1,1 @@
+Kompletny opis projektu informatycznego
