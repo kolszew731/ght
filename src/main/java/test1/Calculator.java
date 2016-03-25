@@ -19,6 +19,11 @@ public class Calculator {
 		return x + y;
 	}
 
+	/** Odejmowanie dwóch liczb całkowitych
+	 * @param x
+	 * @param y
+	 * @return
+	 */
 	public static int sub(int x, int y) {
 		return x - y;
 	}
