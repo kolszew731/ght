@@ -1,1 +1,1 @@
-Kompletny opis projektu informatycznego
+Kompletny opis projektu informatycznego dla potomnych
