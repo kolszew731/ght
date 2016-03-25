@@ -8,6 +8,13 @@ package test1;
  */
 public class Calculator {
 
+	/**
+	 * Dodawanie
+	 * 
+	 * @param x
+	 * @param y
+	 * @return
+	 */
 	public static int add(int x, int y) {
 		return x + y;
 	}
